@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2b$10$e1a4lYkblsWwC9xHZUyLzeWRn.LkYe7RnXZAz.5V9/pKbI/rmcnXm",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "moderator",
+    "password": "$2b$10$e1a4lYkblsWwC9xHZUyLzeWRn.LkYe7RnXZAz.5V9/pKbI/rmcnXm",
+    "role": "Moderator"
+  },
+  {
+    "id": 3,
+    "username": "user",
+    "password": "$2b$10$e1a4lYkblsWwC9xHZUyLzeWRn.LkYe7RnXZAz.5V9/pKbI/rmcnXm",
+    "role": "User"
+  },
+  {
+    "id": 4,
+    "username": "user1",
+    "password": "$2b$10$Hp2tekU91cUwuQ8U9OHFxecoyrCZL2rLQSDJsZ/z0qJbFRm6k9lDy",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "username": "admin1",
+    "password": "$2b$10$hP63vXUfSPTtCb5nHJ7cW.pp35cb12rO/2dPvW8nJMe1EhXdhXtee",
+    "role": "admin"
+  },
+  {
+    "id": 6,
+    "username": "19pranav99",
+    "password": "$2b$10$2NBMnGQ2dvJ7rKD/4djCseHFdnSXfSHJnD2eIFC/GyYYSmpzGlgqu",
+    "role": "user"
+  },
+  {
+    "id": 7,
+    "username": "abc",
+    "password": "$2b$10$ZBStMO0ZQ/2Rf.L5YCAVGeo27TKx7ToEjbDkaxM.fX4RdfGX6HB46",
+    "role": "user"
+  },
+  {
+    "id": 8,
+    "username": "new",
+    "password": "$2b$10$s2OaHg1q5Og.UVMjLzviN.CyQ3.5z./qy90yqdKM0JCwXUxNE3Ycq",
+    "role": "admin"
+  },
+  {
+    "id": 9,
+    "username": "mayank",
+    "password": "$2b$10$pQo.MJ2hU0uDKlbPAbEB1uHUJBAl6bfXB/t9ksY0BuqLwPIkC6Z/6",
+    "role": "admin"
+  },
+  {
+    "id": 10,
+    "username": "mayank123",
+    "password": "$2b$10$hmQA5GO.4egYUQoJQE.1NetKp45hkgv/vX/TC5CtNVgMboCz/nthO",
+    "role": "user"
+  },
+  {
+    "id": 11,
+    "username": "neeraj",
+    "password": "$2b$10$jzyMGUXGK/8pGa1TdVCx1.pJ7njXZQz.Dg5TPsYblQmTrEbgey1yW",
+    "role": "admin"
+  },
+  {
+    "id": 12,
+    "username": "we",
+    "password": "$2b$10$yjV8wCYfFpdEPM4.lDMWe.t4.ROsxcmanWeKCLrRWvNAX4iExISA6",
+    "role": "admin"
+  }
+]
